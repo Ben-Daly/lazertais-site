@@ -23,6 +23,17 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.wrapper2 {
+    border-radius: 10px;
+    width: 780px;
+    margin: auto;
+    padding: 5px 10px 10px 10px;
+    background-color: #404040;
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .navbar {
     padding-top: 15px;
     padding-bottom: 25px;
@@ -35,7 +46,7 @@
 }
 
 .button {
-    background-color: #4CAF50;
+    background-color: #4CAF50; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -95,6 +106,7 @@ h1 {
 p {
     font-family: 'Raleway', sans-serif;
     color: white;
+    text-align: left;
 }
 
 h2 {
